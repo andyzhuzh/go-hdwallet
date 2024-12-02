@@ -1,4 +1,4 @@
-module github.com/meierna/go-hdwallet
+module github.com/andyzhuzh/go-hdwallet
 
 go 1.19
 
