@@ -18,11 +18,12 @@ Golang实现的多币种HD钱包
 - TRX
 - BNB(Binance Chain)
 - FIL
+- SOL
 
 ## 安装
 
 ```sh
-go get -v -u github.com/meierna/go-hdwallet
+go get -v -u github.com/andyzhuzh/go-hdwallet
 ```
 
 ## 示例
@@ -35,7 +36,7 @@ import (
     "fmt"
 
     "github.com/tyler-smith/go-bip39"
-    "github.com/meierna/go-hdwallet"
+    "github.com/andyzhuzh/go-hdwallet"
 )
 
 func main() {
