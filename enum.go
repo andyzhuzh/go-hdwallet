@@ -60,4 +60,5 @@ var coinTypes = map[uint32]uint32{
 	MATIC: ETH, // MATIC与ETH地址相同
 	FIL:   FIL,
 	SUI:   SUI,
+	SOL:   SOL,
 }
