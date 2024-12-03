@@ -8,4 +8,5 @@ const (
 	TRX  = "TRX"
 	BNB  = "BNB"
 	FIL  = "FIL"
+	SOL  = "SOL"
 )
